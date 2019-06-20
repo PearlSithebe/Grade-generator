@@ -27,5 +27,3 @@ switch(true) {
 return grade;
 }
 }
-
-console.log(Grades(0.8));
